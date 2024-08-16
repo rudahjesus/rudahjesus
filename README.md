@@ -1,7 +1,8 @@
 ### Welcome to Turminha do Didi😂🤣
 ##
-<div style="display: inline_block"><br>  
-###  Learning:
+<div style="display: inline_block"><br>   
+  
+### Learning:
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
