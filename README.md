@@ -20,3 +20,10 @@ Im a student from Brazil
 Learning Automation and IOT (Arduino / ESP32 / PLC / 8051 / PIC16F) and Fullstack (HTML / CSS / JS). Im also a linux ricer (Arch supremacy).
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudahjesus&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rudahjesus" /></p>
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudahjesus/rudahjesus/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudahjesus/rudahjesus/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rudahjesus/rudahjesus/output/github-contribution-grid-snake.svg">
+</picture>
