@@ -22,7 +22,7 @@
   </div>
 
   
-<h3 align="left">My Languages:</h3>
+<h3 align="left">My skills:</h3>
   <div align="left">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
